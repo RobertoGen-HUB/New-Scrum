@@ -1,0 +1,26 @@
+Nombre del Proyecto: Turbo Activado 
+
+Perfil del Proyecto:
+Página de estrategias que te ofrece un apoyo para crear “builds” de personajes en diversos juegos y modos de juegos
+
+Definición de los proyectos y sus necesidades:
+
+Metas y Objetivos del Proyecto:
+Metas.
+1.- Desarrollar un sitio web de desarrollo de builds para Gamers 
+
+Ciclo de Vida del Desarrollo:
+Planificación
+Necesitamos usar HTML, CSS y Javascript
+Github / Repositorios
+Análisis
+aprender a diseñar con Javascript
+Investigar diseños otras paginas/foros de videojuegos
+Diseño
+Utilizar una interfaz tipo foro para compartir las updates más recientes junto con la información de implementacion 
+Implementación
+Publicar/ Hostear
+Pruebas e Integración
+Ejecutar el sitio web varias veces 
+Mantenimiento
+Revisar constantemente posibles errores
